@@ -1,0 +1,1925 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.589033",
+          "55.690359"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Новочерёмушкинская ул., 1",
+        "description": 7,
+        "marker-color": "#b294f7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.638",
+          "55.808225"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Мира просп., 114-Б, стр. 2",
+        "description": 6,
+        "marker-color": "#bfea75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.603846",
+          "55.752642"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Воздвиженка ул., 9, стр. 2",
+        "description": 14,
+        "marker-color": "#f2d5a4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.590713",
+          "55.752141"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Новый Арбат ул., 17",
+        "description": 13,
+        "marker-color": "#95b7e5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.532098",
+          "55.801835"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Ленинградский просп., 62-А",
+        "description": 6,
+        "marker-color": "#bfea75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.663018",
+          "55.869208"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Енисейская ул., 19, к. 1",
+        "description": 3,
+        "marker-color": "#3faff4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.678325",
+          "55.772163"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Бауманская ул., 32, стр. 2",
+        "description": 9,
+        "marker-color": "#d608b3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.656092",
+          "55.764187"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Земляной Вал площадь, 33",
+        "description": 14,
+        "marker-color": "#f2d5a4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.657152",
+          "55.758114"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Земляной Вал ул., 26, стр. 1",
+        "description": 14,
+        "marker-color": "#f2d5a4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.76133",
+          "55.625282"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Бесединское шоссе, 15",
+        "description": 3,
+        "marker-color": "#3faff4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.606999",
+          "55.612146"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Варшавское шоссе, 140",
+        "description": 4,
+        "marker-color": "#e8bb94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.289139",
+          "55.60283"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Рейсовая 2-я ул., 2, к. 2",
+        "description": 1,
+        "marker-color": "#f814fc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.592096",
+          "55.706883"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Вавилова ул., 3",
+        "description": 7,
+        "marker-color": "#b294f7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.492024",
+          "55.84024"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Головинское шоссе, 5, к. 1",
+        "description": 5,
+        "marker-color": "#d66292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.637749",
+          "55.705452"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Автозаводская ул., 18",
+        "description": 7,
+        "marker-color": "#b294f7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.622091",
+          "55.708729"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Тульская улица, 13",
+        "description": 9,
+        "marker-color": "#d608b3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.620761",
+          "55.709028"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Тульская улица, 2",
+        "description": 9,
+        "marker-color": "#d608b3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.656424",
+          "55.709505"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Ленинская Слобода ул., 17/2, стр. 1",
+        "description": 7,
+        "marker-color": "#b294f7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.566072",
+          "55.744632"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Киевского Вокзала площадь, 2",
+        "description": 8,
+        "marker-color": "#19005e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.545581",
+          "55.863833"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Дмитровское шоссе, 89",
+        "description": 2,
+        "marker-color": "#078422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.595555",
+          "55.647534"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Азовская ул., 24, к. 3",
+        "description": 4,
+        "marker-color": "#e8bb94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.752149",
+          "55.619574"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Кустанайская ул., 6",
+        "description": 6,
+        "marker-color": "#bfea75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.732718",
+          "55.612045"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Ореховый бульв., 22-А",
+        "description": 5,
+        "marker-color": "#d66292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.752158",
+          "55.612614"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Ореховый бульв., 24",
+        "description": 4,
+        "marker-color": "#e8bb94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.747963",
+          "55.788434"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Измайловское шоссе, 69-Д",
+        "description": 5,
+        "marker-color": "#d66292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.787111",
+          "55.792265"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Первомайская ул., 42",
+        "description": 4,
+        "marker-color": "#e8bb94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.526232",
+          "55.643658"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Профсоюзная ул., 102, стр. 1",
+        "description": 4,
+        "marker-color": "#e8bb94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.517374",
+          "55.631168"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Профсоюзная ул., 126, к. 2",
+        "description": 4,
+        "marker-color": "#e8bb94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.665408",
+          "55.785513"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Красносельская улица, 3-А",
+        "description": 9,
+        "marker-color": "#d608b3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.63217",
+          "55.761406"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Мясницкая ул., 9/11",
+        "description": 19,
+        "marker-color": "#b74cdb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.408993",
+          "55.757774"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Осенний бульв., 10",
+        "description": 2,
+        "marker-color": "#078422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.380875",
+          "55.766212"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Рублёвское шоссе, 62",
+        "description": 0,
+        "marker-color": "#97e557"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.372063",
+          "55.766805"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, МКАД, 60-й км, 4-А",
+        "description": 0,
+        "marker-color": "#97e557"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.411005",
+          "55.738591"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Ярцевская ул., 19",
+        "description": 2,
+        "marker-color": "#078422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.450162",
+          "55.881046"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Правобережная ул., 1-Б",
+        "description": 5,
+        "marker-color": "#d66292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.478082",
+          "55.855078"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Фестивальная ул., 2-Б",
+        "description": 4,
+        "marker-color": "#e8bb94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.608643",
+          "55.728935"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Ленинский просп., 2/4",
+        "description": 9,
+        "marker-color": "#d608b3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.715471",
+          "55.75322"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Авиамоторная ул., 12",
+        "description": 4,
+        "marker-color": "#e8bb94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.765399",
+          "55.677336"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Краснодарская ул., 51",
+        "description": 4,
+        "marker-color": "#e8bb94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.696076",
+          "55.578772"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, МКАД, 27-й км, вл. 1, стр. 1",
+        "description": 1,
+        "marker-color": "#f814fc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.604143",
+          "55.793743"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Сущёвский Вал ул., 31, стр. 1",
+        "description": 10,
+        "marker-color": "#f95ecb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.618848",
+          "55.803469"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Шереметьевская ул., 20",
+        "description": 10,
+        "marker-color": "#f95ecb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.618147",
+          "55.796972"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Шереметьевская ул., 8",
+        "description": 9,
+        "marker-color": "#d608b3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.755006",
+          "55.659119"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Братиславская ул., 14",
+        "description": 8,
+        "marker-color": "#19005e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.741908",
+          "55.658835"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Люблинская ул., 153",
+        "description": 7,
+        "marker-color": "#b294f7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.744936",
+          "55.649063"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Люблинская ул., 169, к. 3",
+        "description": 6,
+        "marker-color": "#bfea75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.738782",
+          "55.658312"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Люблинская ул., 92, стр. 2",
+        "description": 6,
+        "marker-color": "#bfea75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.749661",
+          "55.659647"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Перерва ул., 43, к. 1",
+        "description": 8,
+        "marker-color": "#19005e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.200044",
+          "56.008797"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Панфиловский просп., 6-А",
+        "description": 4,
+        "marker-color": "#e8bb94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.635754",
+          "55.793181"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Мира просп., 92",
+        "description": 8,
+        "marker-color": "#19005e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.624651",
+          "55.760195"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Театральный пр., 5",
+        "description": 16,
+        "marker-color": "#ecb0f4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.35795",
+          "55.846082"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Дубравная ул., 34/29",
+        "description": 2,
+        "marker-color": "#078422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.351635",
+          "55.8534"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Митинская ул., 53",
+        "description": 2,
+        "marker-color": "#078422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.64613",
+          "55.653314"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Каширское шоссе, 26",
+        "description": 3,
+        "marker-color": "#3faff4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.442868",
+          "55.633993"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Киевское шоссе, 22-й км, вл. 4-Б",
+        "description": 4,
+        "marker-color": "#e8bb94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.436661",
+          "55.635396"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Киевское шоссе, 22-й км, вл. 4-Г",
+        "description": 4,
+        "marker-color": "#e8bb94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.628711",
+          "55.665782"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Каширское шоссе, вл. 12-А",
+        "description": 2,
+        "marker-color": "#078422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.621938",
+          "55.640274"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Варшавское шоссе, 95, к. 1",
+        "description": 6,
+        "marker-color": "#bfea75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.737309",
+          "55.730365"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Рязанский просп., 2",
+        "description": 2,
+        "marker-color": "#078422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.353189",
+          "55.637078"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Боровское шоссе, 51, стр. 1",
+        "description": 0,
+        "marker-color": "#97e557"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.720106",
+          "55.609675"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Ореховый бульв., 14, к. 3",
+        "description": 5,
+        "marker-color": "#d66292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.585808",
+          "55.852768"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Алтуфьевское шоссе, 8",
+        "description": 2,
+        "marker-color": "#078422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.597414",
+          "55.850995"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Сигнальный пр., 17",
+        "description": 2,
+        "marker-color": "#078422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.421623",
+          "55.812858"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Волоколамское шоссе, вл. 67",
+        "description": 1,
+        "marker-color": "#f814fc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.439194",
+          "55.81782"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Волоколамское шоссе, вл. 69",
+        "description": 1,
+        "marker-color": "#f814fc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.71115",
+          "55.794831"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Преображенская площадь, 6",
+        "description": 5,
+        "marker-color": "#d66292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.582906",
+          "55.774907"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Грузинский Вал ул., 28/45",
+        "description": 11,
+        "marker-color": "#3342b7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.575962",
+          "55.761264"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Красная Пресня ул., 4",
+        "description": 10,
+        "marker-color": "#f95ecb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.563709",
+          "55.754775"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Краснопресненская наб., 10",
+        "description": 6,
+        "marker-color": "#bfea75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.584559",
+          "55.760099"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Садовая-Кудринская ул., 3-А",
+        "description": 13,
+        "marker-color": "#95b7e5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.506882",
+          "55.677737"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Вернадского просп., 14-А",
+        "description": 6,
+        "marker-color": "#bfea75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.527956",
+          "55.691958"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Вернадского просп., 6",
+        "description": 4,
+        "marker-color": "#e8bb94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.792411",
+          "55.717776"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Рязанский просп., 75, стр. 1",
+        "description": 4,
+        "marker-color": "#e8bb94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.66265",
+          "55.844041"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Мира просп., 211",
+        "description": 1,
+        "marker-color": "#f814fc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.653388",
+          "55.854997"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Снежная ул., 26-Б",
+        "description": 3,
+        "marker-color": "#3faff4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.580104",
+          "55.574874"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Донского бульв., 1",
+        "description": 4,
+        "marker-color": "#e8bb94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.556128",
+          "55.565605"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Поляны ул., 8",
+        "description": 3,
+        "marker-color": "#3faff4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.799203",
+          "55.808599"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Парковая 9-я ул., 68",
+        "description": 2,
+        "marker-color": "#078422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.830581",
+          "55.810562"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Щёлковское шоссе, 100, к. 100",
+        "description": 2,
+        "marker-color": "#078422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.802473",
+          "55.809889"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Щёлковское шоссе, 60",
+        "description": 3,
+        "marker-color": "#3faff4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.662452",
+          "55.888104"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Широкая ул., 13-А",
+        "description": 3,
+        "marker-color": "#3faff4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.434873",
+          "55.862984"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Планерная ул., 7",
+        "description": 7,
+        "marker-color": "#b294f7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.540721",
+          "55.90968"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Дмитровское шоссе, 163-А",
+        "description": 3,
+        "marker-color": "#3faff4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.17499",
+          "55.982688"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Крюковская площадь, 1",
+        "description": 1,
+        "marker-color": "#f814fc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.497468",
+          "55.823211"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Ленинградское шоссе, 16-А, стр. 4",
+        "description": 4,
+        "marker-color": "#e8bb94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.704116",
+          "55.782071"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Семёновская улица., 16",
+        "description": 6,
+        "marker-color": "#bfea75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.719244",
+          "55.7836"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Измайловский Вал ул., 2",
+        "description": 5,
+        "marker-color": "#d66292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.679826",
+          "55.790337"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Сокольническая площадь, 9-А",
+        "description": 7,
+        "marker-color": "#b294f7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.486544",
+          "55.605765"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Калужское шоссе, 21-й км",
+        "description": 3,
+        "marker-color": "#3faff4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.413367",
+          "55.805665"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Катукова ул., 23",
+        "description": 1,
+        "marker-color": "#f814fc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.395455",
+          "55.806044"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Строгинский бульв., 1",
+        "description": 1,
+        "marker-color": "#f814fc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.655894",
+          "55.741784"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Таганская ул., 1, к. 1",
+        "description": 9,
+        "marker-color": "#d608b3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.586877",
+          "55.777783"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Лесная ул., 5",
+        "description": 12,
+        "marker-color": "#72ff8a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.614608",
+          "55.755773"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Манежная площадь, 1, стр. 2",
+        "description": 14,
+        "marker-color": "#f2d5a4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.620016",
+          "55.770578"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Цветной бульв., 13",
+        "description": 16,
+        "marker-color": "#ecb0f4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.576852",
+          "55.838"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Локомотивный пр., вл. 4",
+        "description": 4,
+        "marker-color": "#e8bb94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.481469",
+          "55.661684"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Вернадского просп., 86-Б",
+        "description": 6,
+        "marker-color": "#bfea75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.512964",
+          "55.703545"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Мичуринский Проспект, Олимпийская Деревня ул., 3, к. 1",
+        "description": 4,
+        "marker-color": "#e8bb94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.481496",
+          "55.665076"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Покрышкина ул., 4",
+        "description": 6,
+        "marker-color": "#bfea75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.508122",
+          "55.743649"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Багратионовский пр., 5",
+        "description": 3,
+        "marker-color": "#3faff4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.499561",
+          "55.742635"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Барклая ул., 10-А",
+        "description": 3,
+        "marker-color": "#3faff4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.476169",
+          "55.727927"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Кутузовский просп., 57",
+        "description": 2,
+        "marker-color": "#078422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.500405",
+          "55.748523"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Филёвская улица, 13",
+        "description": 2,
+        "marker-color": "#078422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.590497",
+          "55.736306"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Зубовский бульв., 17",
+        "description": 7,
+        "marker-color": "#b294f7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.579645",
+          "55.726877"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Комсомольский просп., 28",
+        "description": 5,
+        "marker-color": "#d66292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.523707",
+          "55.777099"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Хорошёвское шоссе, 27",
+        "description": 3,
+        "marker-color": "#3faff4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.539122",
+          "55.781636"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Хорошёвское шоссе, 38-А",
+        "description": 6,
+        "marker-color": "#bfea75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.55248",
+          "55.670021"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Профсоюзная ул., 56",
+        "description": 4,
+        "marker-color": "#e8bb94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.5425",
+          "55.656697"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Профсоюзная ул., 61",
+        "description": 3,
+        "marker-color": "#3faff4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.608212",
+          "55.640543"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Балаклавский просп., 5-А",
+        "description": 4,
+        "marker-color": "#e8bb94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.603118",
+          "55.612065"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Кировоградская ул., 24-А",
+        "description": 4,
+        "marker-color": "#e8bb94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.59524",
+          "55.582986"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Варшавское шоссе, 160",
+        "description": 4,
+        "marker-color": "#e8bb94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.483023",
+          "55.799588"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Бирюзова ул., 32",
+        "description": 3,
+        "marker-color": "#3faff4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.464571",
+          "55.809469"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Щукинская ул., 42",
+        "description": 2,
+        "marker-color": "#078422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.528154",
+          "55.551716"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Бартеневская ул., 12",
+        "description": 3,
+        "marker-color": "#3faff4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.512398",
+          "55.537307"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Кадырова ул., 1",
+        "description": 4,
+        "marker-color": "#e8bb94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.519683",
+          "55.527372"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Чечёрский пр., 51",
+        "description": 3,
+        "marker-color": "#3faff4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.638009",
+          "55.870481"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Дежнёва пр., 21",
+        "description": 5,
+        "marker-color": "#d66292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.443766",
+          "55.850697"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Химкинский бульв., 7/23",
+        "description": 5,
+        "marker-color": "#d66292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.6751",
+          "55.710687"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Кожуховская 7-я ул., 9",
+        "description": 6,
+        "marker-color": "#bfea75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.618659",
+          "55.736012"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Полянка улица, 28",
+        "description": 11,
+        "marker-color": "#3342b7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.704206",
+          "55.867253"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Ярославское шоссе, 69",
+        "description": 2,
+        "marker-color": "#078422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.50928",
+          "55.619467"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Новоясеневский просп., 1",
+        "description": 6,
+        "marker-color": "#bfea75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.536284",
+          "55.60667"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Новоясеневский просп., 11",
+        "description": 6,
+        "marker-color": "#bfea75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.507484",
+          "55.61813"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Москва, Профсоюзная ул., 129-А",
+        "description": 6,
+        "marker-color": "#bfea75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.346739",
+          "55.818877"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Красногорск г., Знаменская ул., 5",
+        "description": 1,
+        "marker-color": "#f814fc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.386202",
+          "55.821032"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Красногорск г., Международная ул., 12",
+        "description": 1,
+        "marker-color": "#f814fc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "37.28401",
+          "55.800554"
+        ]
+      },
+      "properties": {
+        "iconCaption": "Красногорск г., Новорижское шоссе, 7-й км",
+        "description": 0,
+        "marker-color": "#97e557"
+      }
+    }
+  ]
+}
